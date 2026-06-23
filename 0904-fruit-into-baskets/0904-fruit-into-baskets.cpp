@@ -5,14 +5,13 @@ public:
         int l=0,r=0;
         int maxfruits = 0;
         while(r < fruits.size()){
-            mp[fruits[r]] = r;
+            mp[fruits[r]]++;
             if(mp.size()>2){
-                auto it = min_element(mp.begin(),mp.end(),
-                [](const auto &a, const auto &b) {return a.second < b.second;});
-                l = it->second + 1;
-                mp.erase(it);
+                mp[fruits[l]]--;
+                if(mp[fruits[l]] == 0) mp.erase(fruits[l]);
+                l++;
             }
-            maxfruits = max(maxfruits, r-l+1);
+            if(mp.size()<=2) maxfruits = max(maxfruits, r-l+1);
             r++;
         }
         return maxfruits;
