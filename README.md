@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0706-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -63,14 +65,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0706-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
