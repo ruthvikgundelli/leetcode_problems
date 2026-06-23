@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
 ## String
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
