@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
