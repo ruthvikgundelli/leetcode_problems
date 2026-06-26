@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0904-fruit-into-baskets) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
