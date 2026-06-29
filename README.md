@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0704-binary-search) |
