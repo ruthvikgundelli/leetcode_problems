@@ -14,9 +14,11 @@ public:
         return true;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int low = *max_element(weights.begin(),weights.end());
-        int high = 0;
-        for(int x : weights) high += x;
+        int low = 0, high = 0;
+        for (int x : weights) {
+            low = max(low, x);
+            high += x;
+        }
         while(low < high){
             int mid = low + (high - low) / 2;
             if (canShip(weights,days,mid)) high = mid;
