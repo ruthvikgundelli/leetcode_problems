@@ -11,15 +11,12 @@
 class Solution {
 public:
     ListNode* findMiddle(ListNode* temp){
-        ListNode* fast = temp;
+        ListNode* fast = temp->next;
         ListNode* slow = temp;
-        ListNode* prev = nullptr;
         while(fast != nullptr && fast->next != nullptr){
-            prev = slow;
             slow = slow->next;
             fast = fast->next->next;
         }
-        if(fast == nullptr) slow = prev;
         return slow;
     }
     ListNode* mergeLL(ListNode* leftHead, ListNode* rightHead){
@@ -44,11 +41,10 @@ public:
     ListNode* sortList(ListNode* head) {
         if(head == nullptr || head->next == nullptr) return head;
         ListNode* mid = findMiddle(head);
-        ListNode* leftHead = head;
         ListNode* rightHead = mid->next;
         mid->next = nullptr;
-        leftHead = sortList(leftHead);
-        rightHead = sortList(rightHead);
-        return mergeLL(leftHead,rightHead);
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(rightHead);
+        return mergeLL(left,right);
     }
 };
