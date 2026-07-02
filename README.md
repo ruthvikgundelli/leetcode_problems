@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0344-reverse-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0328-odd-even-linked-list) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0682-baseball-game) |
 ## Simulation
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
