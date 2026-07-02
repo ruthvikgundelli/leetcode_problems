@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0704-binary-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0981-time-based-key-value-store) |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
