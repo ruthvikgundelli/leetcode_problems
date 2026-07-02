@@ -17,14 +17,13 @@ public:
             fast = fast->next->next;
             if(fast == slow){
                 slow = head;
-                break;
+                while(slow != fast){
+                    slow = slow->next;
+                    fast = fast->next;
+                }
+                return slow;
             }
         }
-        if(fast == nullptr || fast->next == nullptr) return nullptr;
-        while(slow != fast){
-            slow = slow->next;
-            fast = fast->next;
-        }
-        return slow;
+        return nullptr;
     }
 };
