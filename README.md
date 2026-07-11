@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0981-time-based-key-value-store) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0682-baseball-game) |
 ## Simulation
@@ -234,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
