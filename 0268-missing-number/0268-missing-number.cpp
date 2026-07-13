@@ -10,12 +10,10 @@ public:
         // return ans;
         int n = nums.size();
         int XOR = 0;
-        while(n){
-            XOR = XOR^n;
-            n--;
-        }
         for(auto x : nums){
             XOR = XOR^x;
+            XOR = XOR^n;
+            n--;
         }
         return XOR;
     }
