@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0706-design-hashmap) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0739-daily-temperatures) |
@@ -250,5 +253,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
