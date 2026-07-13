@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0338-counting-bits) |
 ## Trie
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
