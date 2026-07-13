@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0735-asteroid-collision) |
 ## Matrix
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0231-power-of-two) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0231-power-of-two) |
 ## Queue
