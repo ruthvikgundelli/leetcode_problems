@@ -246,16 +246,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0231-power-of-two) |
 ## Queue
 |  |
 | ------- |
