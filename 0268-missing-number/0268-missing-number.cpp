@@ -8,12 +8,12 @@ public:
         // long long total = (nums.size())*(nums.size()+1)/2;
         // int ans = total - sum;
         // return ans;
-        int n = nums.size();
+        int n = 1;
         int XOR = 0;
         for(auto x : nums){
             XOR = XOR^x;
             XOR = XOR^n;
-            n--;
+            n++;
         }
         return XOR;
     }
