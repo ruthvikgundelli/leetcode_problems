@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
 ## Counting
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 ## Math
