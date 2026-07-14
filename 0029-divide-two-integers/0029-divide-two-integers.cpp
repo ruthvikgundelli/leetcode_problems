@@ -11,8 +11,8 @@ public:
             while((d << (k+1)) <= n){
                 k++;
             }
-            q += 1L<<k;
-            n = n - (d << k);
+            q += (1L<<k);
+            n -= (d << k);
         }
         if (sign) q = -q;
         if(q >= (1L<<31) && !sign) return INT_MAX;
