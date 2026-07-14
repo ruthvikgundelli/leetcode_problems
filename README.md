@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0191-number-of-1-bits) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0901-online-stock-span) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
