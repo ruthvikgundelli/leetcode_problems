@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0981-time-based-key-value-store) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
