@@ -7,15 +7,15 @@ public:
     // int maxDepth(TreeNode* root) {
     //     if(root == nullptr) return 0;
     //     int depth = 0;
-    //     queue<TreeNode*> st;
-    //     st.push(root);
-    //     while(!st.empty()){
-    //         int size = st.size();
+    //     queue<TreeNode*> q;
+    //     q.push(root);
+    //     while(!q.empty()){
+    //         int size = q.size();
     //         while(size--){
-    //             auto temp = st.front();
-    //             st.pop();
-    //             if(temp->left != nullptr) st.push(temp->left);
-    //             if(temp->right != nullptr) st.push(temp->right);
+    //             auto temp = q.front();
+    //             q.pop();
+    //             if(temp->left != nullptr) q.push(temp->left);
+    //             if(temp->right != nullptr) q.push(temp->right);
     //         }
     //         depth++;
     //     }
