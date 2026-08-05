@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0981-time-based-key-value-store) |
@@ -466,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
