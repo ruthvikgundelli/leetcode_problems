@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0078-subsets) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
