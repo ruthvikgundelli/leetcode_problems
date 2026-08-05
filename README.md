@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0344-reverse-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -444,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
