@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -478,4 +480,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
