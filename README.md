@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0981-time-based-key-value-store) |
+| [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
