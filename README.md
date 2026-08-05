@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search
 |  |
 | ------- |
