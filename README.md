@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0371-sum-of-two-integers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1922-count-good-numbers](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1922-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
