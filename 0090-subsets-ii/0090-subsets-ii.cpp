@@ -1,24 +1,20 @@
 class Solution {
 public:
-    void dfs(vector<int>& nums, int i, set<vector<int>>& check, vector<int>& res, vector<vector<int>>& ans){
-        if(i >= nums.size()){
-            if(check.find(res) == check.end()){
-                ans.push_back(res);
-                check.insert(res);
-            }
-            return;
+    void dfs(vector<int>& nums, int idx, vector<int>& res, vector<vector<int>>& ans){
+        ans.push_back(res);
+        for(int i = idx; i < nums.size(); i++){
+            if (i > idx && nums[i] == nums[i-1]) continue;
+            res.push_back(nums[i]);
+            dfs(nums,i+1,res,ans);
+            res.pop_back();
         }
-        res.push_back(nums[i]);
-        dfs(nums,i+1,check,res,ans);
-        res.pop_back();
-        dfs(nums,i+1,check,res,ans);
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        
         vector<vector<int>> ans;
         vector<int> res;
-        set<vector<int>> check;
-        sort(nums.begin(), nums.end());
-        dfs(nums, 0, check, res, ans);
+        dfs(nums, 0, res, ans);
         return ans;
     }
 };
