@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0860-lemonade-change) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search
 |  |
