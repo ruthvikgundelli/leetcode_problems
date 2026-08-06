@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
