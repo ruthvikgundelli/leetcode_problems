@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0090-subsets-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0100-same-tree) |
