@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0682-baseball-game) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search
@@ -502,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
