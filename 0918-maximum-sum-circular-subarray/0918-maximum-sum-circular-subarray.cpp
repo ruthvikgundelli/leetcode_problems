@@ -8,11 +8,9 @@ public:
         int minCurr = 0;
         for(auto x : nums){
             total += x;
-
             maxCurr += x;
             maxi = max(maxi, maxCurr);
             if(maxCurr < 0) maxCurr = 0;
-
             minCurr += x;
             mini = min(mini, minCurr);
             if(minCurr > 0) minCurr = 0;
