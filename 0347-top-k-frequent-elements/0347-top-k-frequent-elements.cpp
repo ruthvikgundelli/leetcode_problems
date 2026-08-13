@@ -11,8 +11,7 @@ public:
         for (int freq = nums.size(); freq >= 1 && ans.size() < k; freq--) {
             for (int num : bucket[freq]) {
                 ans.push_back(num);
-                if (ans.size() == k)
-                    break;
+                if (ans.size() == k) break;
             }
         }
         return ans;
