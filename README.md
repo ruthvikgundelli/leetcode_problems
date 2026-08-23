@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0705-design-hashset) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0978-longest-turbulent-subarray) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0994-rotting-oranges) |
 ## Recursion
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
