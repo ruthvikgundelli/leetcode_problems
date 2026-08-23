@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## Recursion
 |  |
 | ------- |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## String Matching
 |  |
 | ------- |
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
