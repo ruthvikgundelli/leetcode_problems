@@ -1,18 +1,5 @@
 class Solution {
-public:
-    bool dfs(int i, vector<vector<int>>& adj, vector<int>& vis, vector<int>& path, vector<int>& ans){
-        vis[i] = 1;
-        path[i] = 1;
-        for(auto ad : adj[i]){
-            if(!vis[ad]){
-                if(dfs(ad, adj, vis, path, ans)) return true;
-            }
-            else if(path[ad]) return true;
-        }
-        path[i] = 0;
-        ans.push_back(i);
-        return false;
-    }
+public: // USED Kahn's Algorithm
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
         for(auto p : prerequisites){
@@ -20,17 +7,27 @@ public:
             int b = p[1];
             adj[b].push_back(a);
         }
-        vector<int> vis(numCourses, 0);
-        vector<int> path(numCourses, 0);
-        vector<int> ans;
-        for(int i = 0; i < numCourses; i++){
-            if(!vis[i]){
-                if(dfs(i, adj, vis, path, ans)){
-                    return {};
-                }
+        vector<int> inDegree(numCourses, 0);
+        for(int i = 0; i < adj.size(); i++){
+            for(auto ad : adj[i]){
+                inDegree[ad]++;
             }
         }
-        reverse(ans.begin(), ans.end());
-        return ans;  
-    }
+        queue<int> q;
+        for(int i = 0; i < numCourses; i++){
+            if(inDegree[i] == 0) q.push(i);
+        }
+        vector<int> ans;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            for(auto ad : adj[node]){
+                inDegree[ad]--;
+                if(inDegree[ad] == 0) q.push(ad);
+            }
+            ans.push_back(node);
+        }
+        if(ans.size() == numCourses) return ans;
+        return {};
+    }   
 };
