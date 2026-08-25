@@ -14,19 +14,27 @@ public:
             outDegree[i] += graph[i].size();
             if(outDegree[i] == 0) q.push(i);
         }
-        vector<int> ans;
+        vector<int> safe(n, 0);
         while(!q.empty()){
             int node = q.front();
             q.pop();
+
+            safe[node] = 1;
+
             for(auto prev : reverseGraph[node]){
                 outDegree[prev]--;
+
                 if(outDegree[prev] == 0){
                     q.push(prev);
                 }
             }
-            ans.push_back(node);
         }
-        sort(ans.begin(), ans.end());
+        vector<int> ans;
+        for(int i = 0; i < n; i++){
+            if(safe[i]){
+                ans.push_back(i);
+            }
+        }
         return ans;
     }
 };
