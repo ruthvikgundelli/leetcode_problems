@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0978-longest-turbulent-subarray](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
+| [0997-find-the-town-judge](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
