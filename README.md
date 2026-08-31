@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0912-sort-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1631-path-with-minimum-effort](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 ## Recursion
 |  |
 | ------- |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -534,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 ## String Matching
 |  |
 | ------- |
@@ -587,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -625,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
