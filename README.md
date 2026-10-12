@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0338-counting-bits) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0268-missing-number) |
@@ -645,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ruthvikgundelli/leetcode_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
